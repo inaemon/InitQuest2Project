@@ -1,4 +1,4 @@
-# Meta Quest2를 이용한 AR 프로젝트 초기 파일
+# Meta Quest2를 이용한 VR 프로젝트 초기 파일
 - Unity Editor version: 2022.3.19f1
 - OS: Android
 - 몰입형 기기: Oculus Meta Quest2
